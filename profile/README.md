@@ -18,7 +18,7 @@ Want to learn more about OPA and the policy language Rego? Check out the [Styra 
 
 ## Community
 
-For questions, discussions and announcements related to Styra products, services and open source projects, please join the Styra community on [Slack](https://join.slack.com/t/styracommunity/shared_invite/zt-1p81qz8g4-t2OLKbvw0J5ibdcNc62~6Q)!
+For questions, discussions and announcements related to Styra products, services and open source projects, please join the Styra community on [Slack](https://communityinviter.com/apps/styracommunity/signup)!
 
 ## Contact
 
