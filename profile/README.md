@@ -8,8 +8,8 @@ Styra's GitHub pages contain a number of open source [repositories](https://gith
 
 ## Commercial
 
-- [Styra DAS](https://www.styra.com/styra-das) - Unified policy management across the cloud-native stack
-- [Styra Load](https://www.styra.com/styra-load) - An enterprise-grade OPA distribution made for data-heavy workloads
+- [Styra DAS](https://www.styra.com/styra-das/) - Unified policy management across the cloud-native stack
+- [Enterprise OPA](https://www.styra.com/enterprise-opa/) - An enterprise-grade OPA distribution made for data-heavy workloads
 - [Support](https://www.styra.com/opa-support/) - Support, professional services and training, from the creators and maintainers of OPA
 
 ## Styra Academy
